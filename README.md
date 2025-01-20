@@ -31,7 +31,7 @@ Visit my portfolio to learn more about me and explore my work:
 - **Docker**  
 
 ### Automation & AI  
-- **ChatGPT**  
+- **ChatGPT API Integration**  
 - **Puppeteer** (Web Scraping)  
 - **Workflow Automation** (N8N)  
 
