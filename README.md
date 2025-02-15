@@ -1,7 +1,3 @@
-Here’s an improved version with better flow and a more engaging tone:  
-
----
-
 # **Hi, I'm Nikunj Pithadiya!** 👋  
 
 ## **🚀 Welcome to My GitHub Profile!**  
